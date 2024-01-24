@@ -1,5 +1,7 @@
 package control;
 
 public class Secundaria {
- int valor=9;
+
+	float valor=1.2f;
+
 }
